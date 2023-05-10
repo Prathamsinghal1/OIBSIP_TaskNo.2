@@ -1,0 +1,41 @@
+body{
+    background-image: url("pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+hr{
+    background-color: none;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#CA82FF;
+    width:10%;
+    border-width: 5px;
+}
+
+h3{
+    color: #CA82FF;
+    text-shadow:8px 15px 30px #AA14F0;
+}
+p{
+    color: white;
+}
+p:hover{    
+    color:goldenrod;
+    text-shadow:8px 15px 30px white;   
+}
+td{
+    color: white;
+}
+li{
+    color: white;
+}
+a{
+    color:greenyellow;
+    text-decoration: none;
+}
+h1:hover{
+    color: gold;
+    /* box-shadow: 5px,; */
+    font-size: 33px;
+    text-shadow:8px 15px 30px white;   
+}
